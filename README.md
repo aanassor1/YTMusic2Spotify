@@ -1,4 +1,6 @@
 # YTMusic2Spotify
+
+### Description
 This basic Python program allows you to transfer a YT Music playlist to Spotify. This also includes manual viewing of the song titles too.
 
 ### What I learnt
@@ -24,4 +26,4 @@ When picking the number to add to the playlist:
 * Inputting 1-top_search_results: Will add that song to the Spotify playlist
 * S/X: Skip adding the song
 
-Created by: Abdul-Aziz Nassor
+## Created by: Abdul-Aziz Nassor
